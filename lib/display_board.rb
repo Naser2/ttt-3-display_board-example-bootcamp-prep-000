@@ -2,10 +2,10 @@
 def display_board method
 
 
-   puts "      |   |   "
-   puts"    -----------"
-   puts        |   |
-   puts "   ----------- "
-   puts "      |   |    "
+   puts "     |   |    "
+   puts"    ---------- "
+   puts "     |   |     "
+   puts "   ---------- "
+   puts "     |   |    "
           
   end 
